@@ -1,7 +1,1 @@
-{
-    "lastUpdated": "2025-01-11",
-    "updates": [
-        "Added new alarm commands to Adonis. Use :alarm reset to reset, :alarm silence to silence, :alarm check to check active alarm, or :alarm tone to change the alarm tones.",
-        "Fire alarms in Dodo's Restaurant are no longer audible throughout the entire map."
-    ]
-}
+{"lastUpdated": null, "updates": ["Added new alarm commands to Adonis. Use :alarm reset to reset, :alarm silence to silence, :alarm check to check active alarm, or :alarm tone to change the alarm tones.", "Fire alarms in Dodo's Restaurant are no longer audible throughout the entire map."]}
